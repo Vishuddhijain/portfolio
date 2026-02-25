@@ -16,7 +16,7 @@
 A personal portfolio website built with **HTML, CSS, and JavaScript** to showcase my projects, skills, achievements, and experiences.
 
 **Live Demo**:  
-https://portfolio-kappa-topaz-72.vercel.app/
+https://portfolio-xi-silk-41.vercel.app/
 
 ---
 
