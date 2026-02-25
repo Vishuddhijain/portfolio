@@ -538,20 +538,13 @@ section {
     border-color: var(--accent-color);
     color: #fff;
 }
-/* .skills-grid {
+.skills-grid {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     gap: 1.5rem;
-} */
-.skills-grid {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 1.5rem;
-  justify-items: center;
 }
-
-/* .skill-item {
+.skill-item {
     background-color: var(--primary-color);
     padding: 1.5rem;
     border-radius: 1rem;
@@ -565,24 +558,8 @@ section {
     text-align: center;
     transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
     border: 2px solid transparent;
-} */
-/* make sure box-model is predictable */
-.skill-item {
-  box-sizing: border-box;
-  background-color: var(--primary-color);
-  padding: 1.25rem;               /* slightly reduced padding for better fit */
-  border-radius: 1rem;
-  width: 240px;
-  min-height: 180px;  
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  gap: .75rem;
-  text-align: center;
-  transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
-  border: 2px solid transparent;
-} 
+}
+/* make sure box-model is predictable */ 
 .skill-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0,0,0,0.2);
