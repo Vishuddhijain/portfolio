@@ -16,7 +16,7 @@
 A personal portfolio website built with **HTML, CSS, and JavaScript** to showcase my projects, skills, achievements, and experiences.
 
 **Live Demo**:  
-https://portfolio-gykryjp6v-vishuddhis-projects.vercel.app/
+https://vishuddhi-jain-portfolio.vercel.app  
 
 ---
 
