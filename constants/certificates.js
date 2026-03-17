@@ -5,10 +5,16 @@ export const certificates = [
     path: "constants/certificates/flipkart_grid_7_semi_finalist.jpg",
     thumbnail: "constants/certificates/flipkart_grid_7_semi_finalist.jpg"
   },
+  // High-value vendor / professional certificates
   {
     name: "Oracle Cloud Infrastructure — DevOps Professional (2025)",
     path: "constants/certificates/oracle_oci_devops_professional_2025.jpg",
     thumbnail: "constants/certificates/oracle_oci_devops_professional_2025.jpg"
+  },
+  {
+    name: "EY & Microsoft — AI Skills Passport",
+    path: "constants/certificates/EY_Certificatejpg.jpg",
+    thumbnail: "constants/certificates/EY_Certificatejpg.jpg"
   },
   {
    name: "JPMorgan Chase & Co. — Software Engineering Job Simulation",
@@ -25,10 +31,21 @@ export const certificates = [
     path: "constants/certificates/oracle_oci_ai_foundations_associate_2025.jpg",
     thumbnail: "constants/certificates/oracle_oci_ai_foundations_associate_2025.jpg"
   },
-{
+  // Generative AI / platform certs (Databricks, Google, Anthropic etc.)
+  {
     name: "Databricks — Accredited Generative AI Fundamentals",
     path: "constants/certificates/databricks_generative_ai_fundamentals.jpg",
     thumbnail: "constants/certificates/databricks_generative_ai_fundamentals.jpg"
+  },
+  {
+    name: "AI Fluency: Framework & Foundations (Anthropic / AI Fluency)",
+    path: "constants/certificates/certificate-ai fluence.jpg",
+    thumbnail: "constants/certificates/certificate-ai fluence.jpg"
+  },
+  {
+    name: "Claude 101",
+    path: "constants/certificates/certificate-claude101.jpg",
+    thumbnail: "constants/certificates/certificate-claude101.jpg"
   },
   {
     name: "Forage / AWS — Solutions Architecture Job Simulation",
@@ -55,7 +72,16 @@ export const certificates = [
     path: "constants/certificates/gemini_for_google_workspace_simplilearn.jpg",
     thumbnail: "constants/certificates/gemini_for_google_workspace_simplilearn.jpg"
   },
-
+  {
+    name: "NXP Campus Connect — Systems Architecture & Frontend Engineering",
+    path: "constants/certificates/NXP_Certificate.jpg",
+    thumbnail: "constants/certificates/NXP_Certificate.jpg"
+  },
+  {
+    name: "Nesternship — Resilience (Nestlé E-learning)",
+    path: "constants/certificates/Nesternship.jpg",
+    thumbnail: "constants/certificates/Nesternship.jpg"
+  },
   {
     name: "TVS Credit — EPIC 7.0 (Participation)",
     path: "constants/certificates/tvs_credit_epic7_participation.jpg",
