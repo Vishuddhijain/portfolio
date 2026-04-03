@@ -68,6 +68,18 @@ export const certificates = [
     thumbnail: "constants/certificates/databricks_get_started_generative_ai.jpg"
   },
   {
+    name: "Deloitte Australia — Data Analytics Job Simulation",
+    path: "constants/certificates/Data_Analytics_Job_Simulation.png",
+    thumbnail: "constants/certificates/Data_Analytics_Job_Simulation.png",
+    description: "Completed a Deloitte job simulation involving data analysis and forensic technology; created a dashboard using Tableau and used Excel to classify data and draw business conclusions."
+  },
+  {
+    name: "Tata — Data Visualisation: Empowering Business with Effective Insights",
+    path: "constants/certificates/Data_Visualisation_tata.png",
+    thumbnail: "constants/certificates/Data_Visualisation_tata.png",
+    description: "Completed a Forage simulation involving creating data visualizations for Tata Consultancy Services; prepared questions for client senior leadership and created visuals to support decision making."
+  },
+  {
     name: "Simplilearn — Gemini for Google Workspace",
     path: "constants/certificates/gemini_for_google_workspace_simplilearn.jpg",
     thumbnail: "constants/certificates/gemini_for_google_workspace_simplilearn.jpg"
